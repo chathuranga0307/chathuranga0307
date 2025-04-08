@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Supun Chathuranga
+- 👋 Hi, There...
 - 👀 I’m interested in Internet of  Things and Embedded software development.
-- 🌱 I’m currently learning Embedded programming
+- 🌱 Currently learning.
+- 🛰️ Studying at RMIT.
 
 
 <!---
